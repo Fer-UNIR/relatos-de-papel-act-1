@@ -1,0 +1,16 @@
+.search {
+  display: grid;
+  gap: 6px;
+  margin: 12px 0;
+}
+
+.search__label {
+  font-size: 14px;
+  opacity: 0.9;
+}
+
+.search__input {
+  padding: 10px 12px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}

@@ -1,0 +1,21 @@
+.home {
+  padding: 16px;
+}
+
+.home__header {
+  margin-bottom: 16px;
+}
+
+.home__title {
+  margin: 0 0 6px;
+}
+
+.home__subtitle {
+  margin: 0;
+  opacity: 0.8;
+}
+
+.home__results {
+  margin: 12px 0 12px;
+  opacity: 0.75;
+}

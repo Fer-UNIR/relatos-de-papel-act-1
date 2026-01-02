@@ -1,0 +1,46 @@
+.book-page {
+  display: grid;
+  grid-template-columns: 220px 1fr;
+  gap: 24px;
+  padding: 16px;
+}
+
+.book-page__cover {
+  width: 100%;
+  border-radius: 12px;
+  border: 1px solid #eee;
+}
+
+.book-page__title {
+  margin: 0 0 6px;
+}
+
+.book-page__author {
+  margin: 0 0 6px;
+  opacity: 0.8;
+}
+
+.book-page__meta {
+  margin: 0 0 12px;
+  font-size: 14px;
+  opacity: 0.7;
+}
+
+.book-page__description {
+  margin: 0 0 16px;
+}
+
+.book-page__price {
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 12px;
+}
+
+.book-page__button {
+  padding: 10px 16px;
+  border: none;
+  border-radius: 8px;
+  background: black;
+  color: white;
+  cursor: pointer;
+}

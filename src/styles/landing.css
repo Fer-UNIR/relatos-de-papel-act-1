@@ -1,0 +1,22 @@
+.landing {
+  min-height: 100vh;
+  display: grid;
+  place-content: center;
+  text-align: center;
+  padding: 24px;
+}
+
+.landing__title {
+  font-size: 40px;
+  margin: 0 0 8px;
+}
+
+.landing__subtitle {
+  margin: 0 0 16px;
+  opacity: 0.8;
+}
+
+.landing__hint {
+  margin: 0;
+  opacity: 0.6;
+}
